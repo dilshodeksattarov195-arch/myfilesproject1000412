@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvarse",
+        "uuid": 3553912,
+        "checksum": "jkvfta"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
